@@ -1,0 +1,79 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+    background:#f5f7fa;
+}
+
+.hero{
+    background:linear-gradient(135deg,#0d6efd,#4e9eff);
+    color:white;
+    padding:120px 20px;
+}
+
+.hero h1{
+    font-size:55px;
+    font-weight:bold;
+}
+
+.hero p{
+    font-size:20px;
+    margin-top:20px;
+    margin-bottom:30px;
+}
+
+.btn-warning{
+    padding:12px 35px;
+    font-size:18px;
+    border-radius:30px;
+}
+
+h2{
+    color:#0d6efd;
+    margin-bottom:20px;
+}
+
+img{
+    border-radius:15px;
+}
+
+footer{
+    margin-top:80px;
+}
+
+.table{
+    background:white;
+}
+
+.card{
+    border:none;
+    border-radius:15px;
+    box-shadow:0 10px 25px rgba(0,0,0,.1);
+}
+
+.status-hijau{
+    color:green;
+    font-weight:bold;
+}
+
+.status-kuning{
+    color:orange;
+    font-weight:bold;
+}
+
+.status-merah{
+    color:red;
+    font-weight:bold;
+}
+
+.search-box{
+    max-width:350px;
+}
+
+.navbar{
+    box-shadow:0 5px 15px rgba(0,0,0,.1);
+}
